@@ -4,6 +4,7 @@ import './HelpBox.css';
 
 
 // My test
+// Added another comment
 function HelpBox({ title, text }) {
   return (
     <article className="help-box">
